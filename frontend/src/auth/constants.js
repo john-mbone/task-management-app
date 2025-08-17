@@ -1,0 +1,1 @@
+export const STORAGE_KEY = 'SSKEY-a2845b87-c79e-4573-949d-80d2b1783307';

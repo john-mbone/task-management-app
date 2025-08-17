@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\repositories\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\repositories\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\interfaces\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\interfaces\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\parameters\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\parameters\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\parameters\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\parameters\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\model\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\model\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|c:\\users\\admin\\source\\repos\\taskmanagerproject\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99E520AC-0A3B-482E-88E3-49AA43D13BCE}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\README.md",
+              "RelativeDocumentMoniker": "backend\\README.md",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\README.md",
+              "RelativeToolTip": "backend\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-17T04:34:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Model\\User.cs",
+              "RelativeToolTip": "backend\\Model\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:16:34.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowD4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:23:05.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:27:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "backend\\Data\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:22:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Repositories\\Authentication.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Repositories\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Repositories\\Authentication.cs",
+              "RelativeToolTip": "backend\\Data\\Repositories\\Authentication.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:10:41.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:31:34.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T00:24:07.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:14:03.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Parameters\\Register.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Parameters\\Register.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Parameters\\Register.cs",
+              "RelativeToolTip": "backend\\Data\\Parameters\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:06:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "backend\\Data\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA6wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:23:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "backend\\Data\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T23:35:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:39:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Interfaces\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Interfaces\\IAuthentication.cs",
+              "RelativeToolTip": "backend\\Data\\Interfaces\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:57:10.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Parameters\\Login.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Parameters\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Data\\Parameters\\Login.cs",
+              "RelativeToolTip": "backend\\Data\\Parameters\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:59:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:08:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T23:00:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-15T16:40:13.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Model\\Base.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Base.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TaskManagerProject\\backend\\backend\\Model\\Base.cs",
+              "RelativeToolTip": "backend\\Model\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:04:11.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
